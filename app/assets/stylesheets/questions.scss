@@ -1,0 +1,24 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+h1, .backlink {
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+.question {
+  border-left: solid;
+  border-left-color: #a9a6a6;
+  border-left-width: 5px;
+  padding-left: 10px;
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+.answer {
+  border-left: solid;
+  border-left-color: #a9a6a6;
+  border-left-width: 5px;
+  padding-left: 10px;
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+  background-color: lightyellow;
+}
